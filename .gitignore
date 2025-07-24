@@ -1,0 +1,28 @@
+# Large data files
+extracted_skills_database.json
+glints_scraped_clean.csv
+
+# Virtual environment
+venv/
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp

@@ -1,0 +1,53 @@
+job_keywords = [
+    # Tech & Data
+    "Software Engineer", "Backend Developer", "Frontend Developer", "Full Stack Developer",
+    "Mobile Developer", "Data Analyst", "Data Scientist", "Machine Learning", "Data Entry", "Cyber Security",
+    "DevOps Engineer", "QA Engineer", "IT Support", "Database Administrator", "Product Manager",
+
+    # UI/UX & Creative
+    "UI Designer", "UX Designer", "Graphic Designer", "Creative Designer", "Motion Designer",
+    "Illustrator", "Video Editor", "Animator", "3D Artist", "Content Creator",
+
+    # Business & Management
+    "Business Analyst", "Project Manager", "Business Development", "Operations Manager",
+    "Sales Executive", "Account Executive", "Partnership Manager", "Consultant",
+    "Product Owner", "Scrum Master", "Strategy Analyst",
+
+    # Marketing & Communications
+    "Digital Marketing", "Content Writer", "Copywriter", "SEO Specialist", "Marketing Strategist",
+    "Social Media Specialist", "PR Specialist", "Brand Manager", "Market Research",
+
+    # Finance & Legal
+    "Finance Officer", "Accounting Staff", "Tax Consultant", "Auditor", "Financial Analyst",
+    "Investment Analyst", "Risk Analyst", "Legal Officer", "Corporate Secretary", "Compliance Officer",
+
+    # HR & GA
+    "HR Generalist", "HRBP", "Talent Acquisition", "Recruiter", "People Development",
+    "Training Specialist", "Payroll Staff", "Office Manager", "GA Staff",
+
+    # Education & Training
+    "Teacher", "Private Tutor", "Curriculum Developer", "Instructional Designer", 
+    "Education Consultant", "Trainer", "Mentor", "Counselor",
+
+    # Healthcare & Labs
+    "Nurse", "Doctor", "Pharmacist", "Nutritionist", "Medical Staff", "Lab Analyst",
+    "Health Analyst", "Radiographer", "Clinical Researcher",
+
+    # F&B & Hospitality
+    "Chef", "Barista", "Cook", "Waiter", "Kitchen Staff", "Bartender",
+    "Hotel Receptionist", "Housekeeping", "Event Organizer",
+
+    # Manufacturing & Logistics
+    "Production Staff", "Warehouse Staff", "Procurement", "Quality Control",
+    "Logistics", "Supply Chain", "Maintenance Engineer", "Mechanical Engineer",
+
+    # Design & Architecture
+    "Interior Designer", "Architect", "Draftsman", "Civil Engineer", "Urban Planner",
+
+    # Customer Support
+    "Customer Service", "Call Center", "Telemarketing", "Client Support", "Technical Support",
+
+    # Entry-level & Internship
+    "Intern", "Magang", "Fresh Graduate", "Admin", "Office Assistant", "Staff",
+    "Receptionist", "Data Entry", "Junior Staff", "Student Intern"
+]
